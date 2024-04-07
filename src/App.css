@@ -65,7 +65,7 @@ main .form {
     width: 500px;
     margin: 50px auto;
     position: relative;
-    min-height: 400px;
+    height: fit-content;
 }
 
 .meme-text {
