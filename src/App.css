@@ -99,3 +99,26 @@ main .form {
     }
 }
 
+
+footer {
+    background: linear-gradient(0deg, #672280 1.18%, #A626D3 100%);
+    text-align: center;
+    color: white;
+}
+
+footer > p {
+    padding: 20px;
+}
+
+footer > div {
+    padding: 10px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+footer > p > a {
+    color: #daa9ea;
+}
